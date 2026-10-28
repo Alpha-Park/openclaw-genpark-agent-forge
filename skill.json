@@ -1,0 +1,15 @@
+{
+  "name": "openclaw-genpark-agent-forge",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Agent Forge - Multi-agent DAG workflow compiler with Kahn's topological sort and Critical Path Method (CPM).",
+  "category": "Service",
+  "mcp_entry": "mcp_server.py",
+  "python_version": ">=3.9",
+  "tags": [
+    "openclaw",
+    "agent-forge",
+    "dag-compiler",
+    "workflow-orchestration",
+    "mcp"
+  ]
+}
